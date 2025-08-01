@@ -1,0 +1,23 @@
+{
+    "nama" : "Wulan Siti Qirani",
+    "tempat_lahir" : "Bandung",
+    "tanggal_lahir" : "2009-03-05",
+    "alamat" : {
+        "jalan" : "jl. sadang RT 04 RW 08",
+        "desa" : "Margahayu tengah",
+        "kacamatan" : "Margahayu"
+    },
+    "hobi" :[
+        "Makan",
+        "Tidur",
+        "Drakoran"
+
+    ],
+    "Kontak" : {
+        "email" : "ulannsiti@gmail.com",
+        "whatsapp" : "0895610381432",
+        "github" : "wulansitiqirani123",
+        "instagram" : "ulann872"
+        
+    }
+}
