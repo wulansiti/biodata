@@ -1,0 +1,128 @@
+{
+    "Nama" : "Beedrill",
+    "Tinggi" : "1.0m",
+    "Berat" : "29.5kg",
+    "Kemampuan" : "Firasat Buruk",
+    "Kategori" : "pokemon lebih beracun",
+    "Jenis Kelamin" : "cewe/cowo",
+
+    "tipe" : [
+        "Sarangga",
+        "Racun"
+    ],
+    "Kelemahan" : [
+        "Api",
+        "Terbang",
+        "Psychic",
+        "Babatuan"
+    ],
+    "Bentuk" : [
+        "Beedrill",
+        "Mega Beedrill"
+    ],
+    "Statistik" : [
+        "Hp",
+        "Serangan",
+        "Pertahanan",
+        "Searangan Khusus",
+        "Pertahanan Khusus",
+        "Kecepatan"
+    ],
+    "Nama 1" : "Charmander",
+    "Tinggi 1" : "0,6m",
+    "Berat 1" : "8.5 kg",
+    "Kemampuan 1" : "Kobar Api",
+    "Kategori  1" : "Pokemon Kadal",
+    "Jenis Kelamin 1" : "cewe/cowo",
+     
+    "Tipe 1" : [
+        "Api"
+    ],
+    "Kelemahan 1" : [
+        "Air",
+        "Tanah",
+        "Bebaturan"
+    ],
+    "Statistik 1" : [
+         "Hp",
+         "Serangan",
+         "Pertahanan",
+         "Serangan Khusus",
+         "Pertahanan Khusus",
+         "Kecepatan"
+    ],
+    "Nama 2" : "Butterfree",
+    "Tinggi 2" : "17.m",
+    "Berat 2" : "???.? kg",
+    "Kemampuan 2" : "Mata Mejamuk",
+    "Kategori 2" : "-",
+    "Jenis Kelamin 2" : "cewe/cowo",
+
+    "Tipe 2" : [
+        "Serangga",
+        "Terbang"
+    ],
+    "Kelemahan 2" : [
+        "Api",
+        "Listrik",
+        "Es",
+        "Terbang",
+        "Bebatuan"
+    ],
+    "Statistik 2" : [
+        "Hp",
+        "Serangan",
+        "Pertahanan",
+        "Serangan Khusus",
+        "Pertahanan Khusus",
+        "Kecepatan"
+    ],
+    "Nama 3" : "Bulbasaur",
+    "Tinggi 3" : "0.7m",
+    "Berat 3" : "6.9 kg",
+    "Kemampuan 3" : "Hijau Rindang",
+    "Karegori 3" : "Pokemon Bibit",
+    "Jrnis Kelamin 3" : "cewe/cowo",
+
+    "Tipe 3" : [
+        "Daun",
+        "Racun"
+    ],
+    "Kelemahan 3" : [
+        "Api",
+        "Es",
+        "Terbang",
+        "Psychic"
+    ],
+    "Statistik 3" : [
+         "Hp",
+        "Serangan",
+        "Pertahanan",
+        "Serangan Khusus",
+        "Pertahanan Khusus",
+        "Kecepatan"
+    ],
+    "Nama 4" : "Squirtle",
+    "Tinggi 4" : "0.5m",
+    "Berat 4" : "9.0kg",
+    "Kemampuan 4" : "Arus Deras",
+    "Kategori 4" : "Pokemon anak kura-kura",
+    "Jenis Kelamin 4" : "cewe/cowo",
+
+    "Tipe" : [
+        "Air"
+    
+    ],
+    "Kelemahan 4" : [
+        "Daun",
+        "Listrik"
+    ],
+    "Statistik 4" : [
+         "Hp",
+        "Serangan",
+        "Pertahanan",
+        "Serangan Khusus",
+        "Pertahanan Khusus",
+        "Kecepatan"
+    ]
+}
